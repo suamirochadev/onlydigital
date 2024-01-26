@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "onlydigital-e4991"
-  }
+    "default": "onlydigital-suamirocha",
+    "onlydigital-e4991": "onlydigital-e4991",
+    "onlydigital-suamirocha": "onlydigital-suamirocha"
+  },
+  "targets": {},
+  "etags": {}
 }

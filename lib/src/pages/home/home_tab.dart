@@ -76,7 +76,7 @@ class _HomeTabState extends State<HomeTab> {
 
       body: Column(
         children: [
-          //Campo de pesquisa
+          //Search bar
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 20),
             child: TextFormField(
