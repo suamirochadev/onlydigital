@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>Simple description of what your project do or how to use it</b>
+    <b>Ecommerce</b>
 </p>
 
 <p align="center">
@@ -18,13 +18,12 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1102358848750231604/1197630215355109416/onlydigital-signin_screen.png?ex=65bbf70e&is=65a9820e&hm=4495ab8d4dcb3a97a55e0c3bf742065ab6b19a18ceebf758d81b0268647056ea&=&format=webp&quality=lossless&width=241&height=468" alt="Image Example" height="400px">
-    <img src="https://media.discordapp.net/attachments/1102358848750231604/1197630214948266095/onlydigital-home_screen.png?ex=65bbf70e&is=65a9820e&hm=c808098cf7fa149f791140b989209b09df02f5fd12215eab23655572536c3025&=&format=webp&quality=lossless&width=234&height=468" alt="Image Example" height="400px">
+    <img src="assets/images/onlydigital.gif" alt="Image Example" height="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- Flutter 3.16
+- Flutter/Dart
 - Firebase
 
 <h2 id="started">🚀 Getting started</h2>
